@@ -31,8 +31,6 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 30 November, 10:07 CET<br /><a href="#">Create your own here!</a></p>
-<p align="center"><img src="#" /> <img alt="Stars" src="#"/> <img alt="Forks" src="#1"/></p>
 
 <!---
 Welisagita/Welisagita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
