@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @Welisagita
-- 👀 I’m interested in something new and fresh
-- 🌱 I’m currently learning from other people
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me welipalumbo@gmail.com
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Frontend developer from <b>Indonesia</b>, currently living in <b>Depok, Indonesia</b>. </p>
+- 👋 My name @Welisagita
+- 👀 I’m interested in something new and fresh
+- 🌱 I’m currently learning from other people
+- 💞️ I’m looking to collaborate on a project
+- 📫 How to reach me welipalumbo@gmail.com
+
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
