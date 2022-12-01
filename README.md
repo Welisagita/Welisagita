@@ -22,6 +22,7 @@
   <img alt="cpanel" src="https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="Xampp" src="https://img.shields.io/badge/-Xampp-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
 </p>
 
 <h3>My latest posts</h3>
