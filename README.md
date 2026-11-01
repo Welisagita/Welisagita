@@ -28,7 +28,7 @@
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://wiselyproject.com"><b>✅ Stop buat website</b></a><br/><i>Bangun mesin penjual otomatis!.</i></li>
-  <li><a href="[https://wiselyproject.com/cara-mengamankan-website-wordpress/](https://www.wiselyproject.com/blog/mengatasi-selisih-stok-gudang-wms-barcode-klinik-kecantikan)"><b><✅ Aplikasi WMS Berbasis Barcode </b></a><br/><i>untuk Klinik Kecantikan, Skincare & Salon</i></li>
+  <li><a href="https://www.wiselyproject.com/blog/mengatasi-selisih-stok-gudang-wms-barcode-klinik-kecantikan"><b>✅ Aplikasi WMS Berbasis Barcode </b></a><br/><i>untuk Klinik Kecantikan, Skincare & Salon</i></li>
     <li><a href="https://www.wiselyproject.com/jasa-pembuatan-website"><b>✅ Jasa Pembuatan Website</b></a><br/><i>Dirancang untuk Jualan.</i></li>
 </ul>
 
