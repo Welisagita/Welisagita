@@ -27,9 +27,9 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://wiselyproject.com"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Stop buat website</b></a><br/><i>Bangun mesin penjual otomatis!.</i></li>
-  <li><a href="https://wiselyproject.com/cara-mengamankan-website-wordpress/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Cara Mengamankan Website Wordpress</b></a><br/><i>A good tutorial to do your first steps with Wordpress</i></li>
-    <li><a href="https://wiselyproject.com/cara-membuat-website-wordpress/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Cara Membuat Website Wordpress</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+  <li><a href="https://wiselyproject.com"><b>✅ Stop buat website</b></a><br/><i>Bangun mesin penjual otomatis!.</i></li>
+  <li><a href="[https://wiselyproject.com/cara-mengamankan-website-wordpress/](https://www.wiselyproject.com/blog/mengatasi-selisih-stok-gudang-wms-barcode-klinik-kecantikan)"><b><✅ Aplikasi WMS Berbasis Barcode </b></a><br/><i>untuk Klinik Kecantikan, Skincare & Salon</i></li>
+    <li><a href="https://www.wiselyproject.com/jasa-pembuatan-website"><b>✅ Jasa Pembuatan Website</b></a><br/><i>Dirancang untuk Jualan.</i></li>
 </ul>
 
 <h3>Where to find me</h3>
